@@ -13,7 +13,7 @@
         }
 
         .main {
-            background: url("https://razinsoft.com/image/Installer.jpg");
+            background: url("https://i.ibb.co.com/9DPY5zX/Installer.jpg");
             width: 100%;
             height: 100vh;
             background-repeat: no-repeat;
